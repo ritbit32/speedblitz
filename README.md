@@ -54,7 +54,7 @@ SpeedBlitz puts you in the cockpit of a nimble low-poly fighter, third-person ca
 3. Open `NewMap` (or the current default level) and hit **Play**
 
 ```bash
-git clone https://github.com/<your-username>/speedblitz.git
+git clone https://github.com/ritbit32/speedblitz.git
 ```
 
 ## Development Log
