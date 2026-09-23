@@ -63,7 +63,7 @@ This project is under active development. Core flight and weapon systems are fun
 
 ## License
 
-*Add your chosen license here (e.g. MIT).*
+This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
